@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-
+<p class="aligncenter">
+<img width="200" alt="Meta Horizon " src="https://user-images.githubusercontent.com/102956488/203274680-5f92f2f1-8fba-48a6-9197-cf6e63640c93.png">
+</p>
 
 **Here are some ideas to get you started:**
-<img width="1500" alt="Group 3 (3)" src="https://user-images.githubusercontent.com/102956488/203274680-5f92f2f1-8fba-48a6-9197-cf6e63640c93.png">
+
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
