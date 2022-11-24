@@ -82,7 +82,7 @@ releases and find opportunities to get more involved, and learn industry best pr
 
 ### 🚀 How can I join the MetaHorizon-Universe GitHub community?
 
-> 1. Go to the issues tab [here](##).
+> 1. Go to the issues tab [here](https://github.com/MetaHorizon-Universe/Join-The-MetaHorizon-Universe/issues).
 >   
 > 2. Create a new issue.
 > 
