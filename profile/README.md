@@ -45,7 +45,7 @@ releases and find opportunities to get more involved, and learn industry best pr
 </a>
 <hr>
 
-## What you can find here:🧐🔍
+## 🚀 What you can find here:🧐🔍
 
 > This group is here for low - high level, need-to-know information about Technologies you will find :
 
