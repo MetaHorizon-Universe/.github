@@ -2,7 +2,7 @@
 <img width="1584" alt="LinkedIn cover - 1 (2)" src="https://user-images.githubusercontent.com/102956488/203785445-205b8679-3df4-478a-8992-bc28f4946769.png">
 
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello Folks!!! Welcome to the Meta-Horizon Community.
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1DFF00&size=23&lines=A+Open+Source+Developer+learning+group" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1DFF00&size=21&lines=>>+A+Open+Source+Developer+learning+group" /></a>
 </p>
 
 <p align="center">
