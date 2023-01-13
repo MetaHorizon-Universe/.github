@@ -1,14 +1,15 @@
 <div align="center">
-<img width="1584" alt="LinkedIn cover - 1 (2)" src="https://user-images.githubusercontent.com/102956488/203785445-205b8679-3df4-478a-8992-bc28f4946769.png">
+<img width="1584" alt="LinkedIn cover - 1 (1)" src="https://user-images.githubusercontent.com/102956488/212379406-11991a86-d394-4397-ae10-843abea81b32.png">
+
 
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello Folks!!! Welcome to the Meta-Horizon Community.
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1DFF00&size=21&lines=>>+A+Open+Source+Developer+learning+group" /></a>
 </p>
 
 <p align="center">
-<img width="400" alt="Meta Horizon " src="https://user-images.githubusercontent.com/102956488/203274680-5f92f2f1-8fba-48a6-9197-cf6e63640c93.png">
-</p>
+<img width="300" alt="NEW LOGO" src="https://user-images.githubusercontent.com/102956488/212379590-5a21b48f-3d11-45b7-b7d5-f4ddbfedf289.png">
 
+</p>
 
  
 ## 📌 Who and Why is this Community for?
